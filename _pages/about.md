@@ -32,14 +32,15 @@ Publications
 ====
 * **Exact simulation of max-infinitely divisible processes**
 	*Peng Zhong, Raphaël Huser, and Thomas Opitz. 
-	* *arXiv preprint 2103.00533, submitted, 2021*
+	* *arXiv preprint 2103.00533, submitted, 2021* [link](pangchung.github.io/files/Zhong-etal_ExactMaxID.pdf) 
 
 * **Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude**
 	* Peng Zhong, Raphaël Huser, and Thomas Opitz.
-	* *Annals of Applied Statistics, to appear, 2021*
+	* *Annals of Applied Statistics, to appear, 2021* [link](pangchung.github.io/files/Zhong-MaxID.pdf)
 
  Teaching Experience
  ====
+ 
  * **Teaching assistant, CEMSE (KAUST)** Fall, 2020
 	* STAT 250: Stochastic Processes
 	* Grading homework and exams; Giving tutorial; Q & A;
@@ -50,6 +51,7 @@ Publications
 
 Industry Experience
 ====
+
 * **CSMAR Database** Shenzhen, China
 	* Data Analyst (Intern) Summer 2016
 	* Analysis data; Data scraping; Present review of literatures in Finance
