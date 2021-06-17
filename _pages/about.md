@@ -36,7 +36,7 @@ Publications
 ====
 
 * **Exact simulation of max-infinitely divisible processes**
-	*Peng Zhong, Raphaël Huser, and Thomas Opitz. 
+	* Peng Zhong, Raphaël Huser, and Thomas Opitz. 
 	* *arXiv preprint 2103.00533, submitted, 2021* [link](files/paper2.pdf) 
 
 * **Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude**
