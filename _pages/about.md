@@ -23,6 +23,9 @@ Education
     * MS in Statistics 8, 2017 – 12, 2018
 	* Advisor: Prof. Raphaël Huser
 
+* **Southern University of Science and Technology** Shenzhen, China
+	* BA in Financial Mathematics 8, 2013 -- 6, 2017
+
 Honors & Scholarship
 ====
 
