@@ -8,97 +8,81 @@ redirect_from:
   - /about.html
 ---
 
-<span>p<span>1.3in</span>p<span>4.8in</span></span>
+Research Interests
+====
+* Extremes; High dimensional inference; Machine learning; Nonparametric statistics;
 
-& Extremes; High dimensional inference; Machine learning; Nonparametric
-statistics\
-&\
+Education
+====
 
-& **King Abdullah University of Scicence and Technology** Saudi Arabia\
-& PhD in Statistics 1, 2019 – Present\
-& Advisor: Prof. Raphaël Huser\
-&\
+* **King Abdullah University of Scicence and Technology** Saudi Arabia
+   * PhD in Statistics 1, 2019 – Present
+   * Advisor: Prof. Raphaël Huser
 
-& **King Abdullah University of Scicence and Technology** Saudi Arabia\
-& MS in Statistics 8, 2017 – 12, 2018\
-& Advisor: Prof. Raphaël Huser\
-&\
+* **King Abdullah University of Scicence and Technology** Saudi Arabia
+    * MS in Statistics 8, 2017 – 12, 2018
+	* Advisor: Prof. Raphaël Huser
 
-& **Southern University of Science and Technology** Shenzhen, China\
-& BA in Financial Mathematics 8, 2013 – 6, 2017\
-&\
+Honors & Scholarship
+====
+* National Encouragement Scholarship (SUSTech) 2015
+* Establishment of SUSTech Scholarship (SUSTech) 2013
 
-& National Encouragement Scholarship (SUSTech) 2015\
- & Establishment of SUSTech Scholarship (SUSTech) 2013\
-&\
+Publications
+====
+* **Exact simulation of max-infinitely divisible processes**
+	*Peng Zhong, Raphaël Huser, and Thomas Opitz. 
+	* *arXiv preprint 2103.00533, submitted, 2021*
 
-& **Exact simulation of max-infinitely divisible processes**\
-& Peng Zhong, Raphaël Huser, and Thomas Opitz.\
-& *arXiv preprint 2103.00533, submitted, 2021*\
-&\
+* **Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude**
+	* Peng Zhong, Raphaël Huser, and Thomas Opitz.
+	* *Annals of Applied Statistics, to appear, 2021*
 
-& **Modeling non-stationary temperature maxima based on extremal
-dependence changing with event magnitude**\
-& Peng Zhong, Raphaël Huser, and Thomas Opitz.\
-& *Annals of Applied Statistics, to appear, 2021*\
-&\
+ Teaching Experience
+ ====
+ * **Teaching assistant, CEMSE (KAUST)** Fall, 2020
+	* STAT 250: Stochastic Processes
+	* Grading homework and exams; Giving tutorial; Q & A;
 
-\
- & **Teaching assistant, CEMSE (KAUST)** Fall, 2020\
-& STAT 250: Stochastic Processes\
-& Grading homework and exams; Giving tutorial; Q & A;\
-&\
+* **Teaching assistant, Mathematics (SUSTech)** Spring 2017
+	* Real Analysis
+	* Grading homework and exams; Q & A;
 
-& **Teaching assistant, Mathematics (SUSTech)** Spring 2017\
-& Real Analysis\
-& Grading homework and exams; Q & A;\
-&\
+Industry Experience
+====
+* **CSMAR Database** Shenzhen, China
+	* Data Analyst (Intern) Summer 2016
+	* Analysis data; Data scraping; Present review of literatures in Finance
 
-\
- & <span>**CSMAR Database**</span> Shenzhen, China\
-& Data Analyst (Intern) Summer 2016\
-& Analysis data; Data scraping; Present review of literatures in
-Finance;\
-&\
+Talks & Posters
+====
 
-& **Poster: Exact simulation of max-infinitely divisible processes** 5,
-2021\
-& RESIM 2021: 13th International Workshop on Rare-Event Simulation,
-Paris, France (Virtual).\
-&\
+* **Poster: Exact simulation of max-infinitely divisible processes** 5, 2021
+	* RESIM 2021: 13th International Workshop on Rare-Event Simulation, Paris, France (Virtual).
 
-& **Talk: Exact simulation of max-infinitely divisible processes** 2,
-2021\
-& Virtual workshop on “Statistical Estimation and Detection of Extreme
-Hot Spots, with Environmental and Ecological Applications”, KAUST, Saudi
-Arabia.\
-&\
+* **Talk: Exact simulation of max-infinitely divisible processes** 2, 2021
+	* Virtual workshop on “Statistical Estimation and Detection of Extreme Hot Spots, with Environmental and Ecological Applications”, KAUST, Saudi Arabia.
 
-& **Talk: Modeling non-stationary temperature maxima based on**\
-& **extremal dependence changing with event magnitude** 2, 2021\
-& Virtual workshop on “Statistical Estimation and Detection of Extreme
-Hot Spots, with Environmental and Ecological Applications”, KAUST, Saudi
-Arabia.\
-&\
+* **Talk: Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude** 2, 2021
+	* Virtual workshop on “Statistical Estimation and Detection of Extreme Hot Spots, with Environmental and Ecological Applications”, KAUST, Saudi Arabia.
 
-& **Contributed Talk: Modeling non-stationary temperature extremes**\
-& **with level-dependent extremal dependence** 8, 2020\
-& Joint Statistical Meetings (Virtual), USA\
-&\
+* **Contributed Talk: Modeling non-stationary temperature extremes with level-dependent extremal dependence** 8, 2020
+	* Joint Statistical Meetings (Virtual), USA
 
-& **Poster: Modeling spatial extremes with max-infinitely divisible
-models**\
-& **level-dependent extremal dependence** 7, 2019\
-& Joint Statistical Meetings, Denver, Colorado, USA\
-&\
+* **Poster: Modeling spatial extremes with max-infinitely divisible models level-dependent extremal dependence** 7, 2019
+	* Joint Statistical Meetings, Denver, Colorado, USA
 
-& **Programming**\
-& R, C++, Python, Shell, Slurm.\
-& **Other**\
-& Latex, Markdown, MS Office.\
-& **Languages**\
-& Mandarin, English\
-&\
+Skills
+====
 
-<span> </span> & <span>**American Statistical Association (ASA)**</span>
-Regular Member\
+* **Programming**
+	* R, C++, Python, Shell, Slurm.
+* **Other**
+	* Latex, Markdown, MS Office.
+* **Languages**
+	* Mandarin, English
+
+Professional Membership
+====
+
+* **American Statistical Association (ASA)** Regular Member
