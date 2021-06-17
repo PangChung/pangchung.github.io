@@ -40,8 +40,8 @@ Publications
 	* Peng Zhong, Raphaël Huser, and Thomas Opitz.
 	* *Annals of Applied Statistics, to appear, 2021* [link](files/paper1.pdf)
 
- Teaching Experience
- ====
+Teaching Experience
+====
  
  * **Teaching assistant, CEMSE (KAUST)** Fall, 2020
 	* STAT 250: Stochastic Processes
