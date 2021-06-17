@@ -84,7 +84,7 @@ author:
   avatar           : "profile.JPG"
   bio              : "Ph.D. Student at KAUST"
   location         : 
-  employer         : "https://cemse.kaust.edu.sa/extstat/people/person/peng-zhong"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=UA0Cyr0AAAAJ&hl=en"
   email            : "peng.zhong[at]kaust[dot]edu[dot]sa"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
