@@ -25,11 +25,13 @@ Education
 
 Honors & Scholarship
 ====
+
 * National Encouragement Scholarship (SUSTech) 2015
 * Establishment of SUSTech Scholarship (SUSTech) 2013
 
 Publications
 ====
+
 * **Exact simulation of max-infinitely divisible processes**
 	*Peng Zhong, Raphaël Huser, and Thomas Opitz. 
 	* *arXiv preprint 2103.00533, submitted, 2021* [link](pangchung.github.io/files/Zhong-etal_ExactMaxID.pdf) 
