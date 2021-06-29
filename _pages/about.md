@@ -63,6 +63,9 @@ Industry Experience
 
 Talks & Posters
 ====
+*  **Talk: Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude** 6, 2021 
+	* Extreme Value Analysis 2021 (Virtual), UK.
+
 
 * **Poster: Exact simulation of max-infinitely divisible processes** 5, 2021
 	* RESIM 2021: 13th International Workshop on Rare-Event Simulation, Paris, France (Virtual).
