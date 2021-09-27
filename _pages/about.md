@@ -16,7 +16,7 @@ Education
 ====
 
 * **King Abdullah University of Scicence and Technology** Saudi Arabia
-   * PhD in Statistics 1, 2019 – Present
+   * PhD in Statistics, 1, 2019 – Present
    * Advisor: Prof. Raphaël Huser
 
 * **King Abdullah University of Scicence and Technology** Saudi Arabia
@@ -59,7 +59,7 @@ Industry Experience
 
 * **CSMAR Database** Shenzhen, China
 	* Data Analyst (Intern) Summer 2016
-	* Analysis data; Data scraping; Present review of literatures in Finance
+	* Data analysis; Data scraping; Present and review literatures in Finance
 
 Talks & Posters
 ====
