@@ -60,7 +60,7 @@ Industry Experience
 
 * **CSMAR Database** Shenzhen, China
 	* Data Analyst (Intern) Summer 2016
-	* Data analysis; Data scraping; Present and review literatures in Finance
+	* Data analysis; Data scraping; Present and review literature in Finance
 
 Talks & Posters
 ====
