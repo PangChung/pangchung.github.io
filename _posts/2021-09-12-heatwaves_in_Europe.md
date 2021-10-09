@@ -10,4 +10,4 @@ tags:
 
 Using a 100-year observational dataset and the latest techniques for modeling climate extremes has revealed the evolving dynamics of heatwaves across Europe under the influence of climate change.
 
-See more details, please refer to the  [EurokAlert,AAAS](https://www.eurekalert.org/news-releases/928183) or [KAUST discovery](https://discovery.kaust.edu.sa/en/article/1170/heatwave-model-shows-it-is-hotter-in-more-places,-more-often).
+See more details, please refer to   [EurokAlert,AAAS](https://www.eurekalert.org/news-releases/928183) or [KAUST discovery](https://discovery.kaust.edu.sa/en/article/1170/heatwave-model-shows-it-is-hotter-in-more-places,-more-often).
