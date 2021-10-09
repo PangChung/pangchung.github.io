@@ -36,11 +36,12 @@ Publications
 ====
 
 * **Exact simulation of max-infinitely divisible processes**
-	* Peng Zhong, Raphaël Huser, and Thomas Opitz. 
+	* **Peng Zhong**, [Raphaël Huser](https://cemse.kaust.edu.sa/stat/people/person/raphael-huser), and [Thomas Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz). 
 	* *arXiv preprint 2103.00533, submitted, 2021* [link](files/paper2.pdf) 
 
 * **Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude**
-	* Peng Zhong, Raphaël Huser, and Thomas Opitz.
+	* **Peng Zhong**, [Raphaël Huser](https://cemse.kaust.edu.sa/stat/people/person/raphael-huser), and [Thomas Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz). 
+
 	* *Annals of Applied Statistics, to appear, 2021* [link](files/paper1.pdf)
 
 Teaching Experience
