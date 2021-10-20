@@ -1,7 +1,7 @@
 ---
 title: 'Heatwave model shows it is hotter in more places, more often'
 date: 2021-09-12
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2021-09-12
 tags:
   - Heatwaves
   - Max-id processes
