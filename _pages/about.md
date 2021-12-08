@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently in the job market and am looking for a full-time job.  
+# I am currently in the job market and am looking for a full time job.  
 
 Research Interests
 ====
