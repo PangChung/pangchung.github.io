@@ -12,7 +12,7 @@ redirect_from:
 
 Research Interests
 ====
-* Extremes; High dimensional inference; Machine learning; Nonparametric statistics;
+* Extremes; High dimensional inference; Computational statistics; Nonparametric statistics; Machine learning; 
 
 Education
 ====
