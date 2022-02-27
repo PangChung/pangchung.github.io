@@ -12,7 +12,8 @@ redirect_from:
 * **I am now in the job market and am looking for a postdoc position in related fields**.  
 
 * Here is a photo of KAUST 
-- ![KAUST](../images/KAUST.png)
+
+![](../images/KAUST.png){}
 
 Publications
 ====
