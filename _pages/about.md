@@ -11,6 +11,8 @@ redirect_from:
 
 * **I am now in the job market and am looking for a postdoc position in related fields**.  
 
+* Here is a photo of [KAUST](/images/KAUST.pdf)
+
 Publications
 ====
 * **Peng Zhong**, [Raphaël Huser](https://cemse.kaust.edu.sa/stat/people/person/raphael-huser), and [Thomas Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz), **Exact simulation of max-infinitely divisible processes**, *Econometrics and Statistics, accepted, 2022+* [link](files/paper2.pdf) 
