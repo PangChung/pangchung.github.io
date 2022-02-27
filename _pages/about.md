@@ -20,7 +20,6 @@ Publications
 
 * **Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude**
 	* **Peng Zhong**, [Raphaël Huser](https://cemse.kaust.edu.sa/stat/people/person/raphael-huser), and [Thomas Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz). 
-
 	* *Annals of Applied Statistics, to appear, 2022* [link](files/paper1.pdf)
 	
 
