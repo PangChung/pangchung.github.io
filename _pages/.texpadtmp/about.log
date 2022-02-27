@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.20)  28 FEB 2022 00:07
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.20)  28 FEB 2022 00:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -363,43 +363,34 @@ LaTeX Info: Redefining \nameref on input line 14.
 \@outlinefile=\write3
 \openout3 = `about.out'.
 
+File: ../images/KAUST.png Graphic file (type bmp)
+<../images/KAUST.png>
+
+Overfull \hbox (3644.71056pt too wide) in paragraph at lines 29--30
+[]\TU/HelveticaNeue(0)/m/n/12 Here is a photo of [] 
+ []
 
 
-LaTeX Warning: File `/images/KAUST.pdf' not found on input line 29.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-./about.tex:29: Unable to load picture or PDF file '/images/KAUST.pdf'.
-<to be read again> 
-                   }
-l.29 ...oto of \includegraphics{/images/KAUST.pdf}
-                                                  
-The requested image couldn't be read because
-it was not a recognized image format.
+ [1
 
-File: /images/KAUST.pdf Graphic file (type pdf)
-<use /images/KAUST.pdf>
-./about.tex:29: Unable to load picture or PDF file '/images/KAUST.pdf'.
-<to be read again> 
-                   \GPT@clipend 
-l.29 ...oto of \includegraphics{/images/KAUST.pdf}
-                                                  
-The requested image couldn't be read because
-it was not a recognized image format.
+]
+Overfull \vbox (1474.5305pt too high) has occurred while \output is active []
 
-[1
+ [2] [3
 
-] [2
-
-] [3] (/Users/zhongp/pangchung.github.io/_pages/.texpadtmp/about.aux)
+] (/Users/zhongp/pangchung.github.io/_pages/.texpadtmp/about.aux)
 Package rerunfilecheck Info: File `about.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10425 strings out of 476919
- 206912 string characters out of 5821840
+ 10382 strings out of 476919
+ 206361 string characters out of 5821840
  559359 words of memory out of 5000000
- 30287 multiletter control sequences out of 15000+600000
+ 30265 multiletter control sequences out of 15000+600000
  403934 words of font info for 46 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 81i,4n,89p,650b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 81i,4n,89p,650b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/zhongp/pangchung.github.io/_pages/.texpadtmp/about.pdf (3 pages).
