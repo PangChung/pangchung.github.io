@@ -8,36 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-# I am currently in the job market and am looking for a full-time job.  
+I am a Ph.D. candidate in Statistics at King Abdullah University of Science and Technology (KAUST) with Prof. [Raphaël Huser](https://cemse.kaust.edu.sa/stat/people/person/raphael-huser). I obtained my bachelor's degree in financial mathematics at the Southern University of Science and Technology (SUSTech), Shenzhen, China, in 2017 and a master's degree in Statistics at KAUST in 2018. My research mainly focuses on modeling spatial extremes, high-dimensional inference, and Bayesian inference. In addition, I am also interested in deep learning frameworks, e.g., GAN and VAE (Variational Autoencoder). **I am now in the job market and am looking for a postdoc position in related fields**.  
 
-Research Interests
-====
-* Extremes; High dimensional inference; Computational statistics; Nonparametric statistics; Machine learning; 
-
-Education
-====
-
-* **King Abdullah University of Scicence and Technology** Saudi Arabia
-   * PhD in Statistics, 1, 2019 – 6, 2022 (expected)
-   * Advisor: Prof. Raphaël Huser
-
-* **King Abdullah University of Scicence and Technology** Saudi Arabia
-    * MS in Statistics 8, 2017 – 12, 2018
-	* Advisor: Prof. Raphaël Huser
-
-* **Southern University of Science and Technology** Shenzhen, China
-	* BA in Financial Mathematics 8, 2013 -- 6, 2017
 
 Publications
 ====
 
 * **Exact simulation of max-infinitely divisible processes**
 	* **Peng Zhong**, [Raphaël Huser](https://cemse.kaust.edu.sa/stat/people/person/raphael-huser), and [Thomas Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz). 
-	* *arXiv preprint 2103.00533, submitted, 2021* [link](files/paper2.pdf) 
+	* *Econometrics and Statistics, accepted, 2022+* [link](files/paper2.pdf) 
 
 * **Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude**
 	* **Peng Zhong**, [Raphaël Huser](https://cemse.kaust.edu.sa/stat/people/person/raphael-huser), and [Thomas Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz). 
 
-	* *Annals of Applied Statistics, to appear, 2021* [link](files/paper1.pdf)
+	* *Annals of Applied Statistics, to appear, 2022* [link](files/paper1.pdf)
+	
+
 
 
