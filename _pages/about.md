@@ -21,7 +21,7 @@ Publications
 
 3. Zhongwei Zhang, Elias Krainski, **Peng Zhong**, Håvard Rue, and Raphaël Huser, Joint modeling and prediction of massive spatio-temporal wildfire count and burnt area data with the INLA-SPDE approach, Submitted\[[arxiv](https://arxiv.org/abs/2202.06502)\]
  
-4. Raphaël Huser, Michael Stein, and **Peng Zhong**, Vecchia Likelihood Approximation for Accurate and Fast Inference in Intractable Spatial Extremes Models, Submitted \[[PDF](files/paper4.pdf)\]
+4. Raphaël Huser, Michael Stein, and **Peng Zhong**, Vecchia likelihood approximation for accurate and fast inference in intractable spatial extremes models, Submitted \[[PDF](files/paper4.pdf)\]
 	
 Photograph
 ====
