@@ -15,7 +15,7 @@ redirect_from:
 Publications
 ====
 
-1. <a href="https://www.scimagojr.com/journalsearch.php?q=21100211345&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100211345" alt="SCImago Journal &amp; Country Rank" width="100" style="float:right;" /> </a>  **Peng Zhong**, Raphaël Huser, and Thomas Opitz, Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude, Annals of Applied Statistics, to appear, 2022 \[[PDF](files/paper1.pdf)\]
+1. <a href="https://www.scimagojr.com/journalsearch.php?q=21100211345&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100211345" alt="SCImago Journal &amp; Country Rank" width="100" style="float:right;" /> </a>  **Peng Zhong**, Raphaël Huser, and Thomas Opitz, Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude, Annals of Applied Statistics, 16, 272-299, 2022 \[[PDF](files/paper1.pdf)\]
 
 2. <a href="https://www.scimagojr.com/journalsearch.php?q=21100836195&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100836195" alt="SCImago Journal &amp; Country Rank"  width="100" style="float:right;" /> </a>  **Peng Zhong**, Raphaël Huser, and Thomas Opitz, Exact simulation of max-infinitely divisible processes, Econometrics and Statistics, accepted, 2022+ \[[PDF](files/paper2.pdf)]
 
