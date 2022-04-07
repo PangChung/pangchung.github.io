@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. candidate in Statistics at King Abdullah University of Science and Technology (KAUST) under Prof. [Raphaël Huser](https://cemse.kaust.edu.sa/stat/people/person/raphael-huser)'s supervision. I obtained my bachelor's degree in financial mathematics at Southern University of Science and Technology (SUSTech), Shenzhen, China, in 2017 and a master's degree in Statistics at KAUST in 2018. My research mainly focuses on modeling spatial extremes, high-dimensional inference, and Bayesian inference. In addition, I am also interested in deep learning frameworks, e.g., GAN and VAE (Variational Autoencoder). 
+* I earned my Ph.D. degree in Statistics at King Abdullah University of Science and Technology (KAUST) under Prof. [Raphaël Huser](https://cemse.kaust.edu.sa/stat/people/person/raphael-huser)'s supervision in April 2020, and I am planning to join the University of New South Wales, Australia as a postdoc at the beginning of 2023 if everything works as planned. Furthermore, I obtained my bachelor's degree in financial mathematics at Southern University of Science and Technology (SUSTech), Shenzhen, China, in 2017 and a master's degree in Statistics at KAUST in 2018. My research mainly focuses on modeling spatial extremes, high-dimensional inference, and Bayesian inference. In addition, I am also interested in deep learning frameworks, e.g., GAN and VAE (Variational Autoencoder). 
 
 Publications
 ====
