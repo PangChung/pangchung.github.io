@@ -1,7 +1,7 @@
 ---
 title: 'Ph.D. degree finally!!'
 date: 2022-04-04
-permalink: /posts/2022-04-04
+permalink: /posts/2022-04-04-PhD-defense
 tags:
   - Ph.D. defense
 ---
