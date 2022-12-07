@@ -17,9 +17,17 @@ Publications
 
 2. <a href="https://www.scimagojr.com/journalsearch.php?q=21100836195&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100836195" alt="SCImago Journal &amp; Country Rank"  width="100" style="float:right;" /> </a>  **Peng Zhong**, Raphaël Huser, and Thomas Opitz, Exact simulation of max-infinitely divisible processes, Econometrics and Statistics, accepted, 2022+ \[[PDF](files/paper2.pdf)]
 
+Papers Under Review
+====
+
 3. Zhongwei Zhang, Elias Krainski, **Peng Zhong**, Håvard Rue, and Raphaël Huser, Joint modeling and prediction of massive spatio-temporal wildfire count and burnt area data with the INLA-SPDE approach, Submitted\[[arxiv](https://arxiv.org/abs/2202.06502)\]
  
-4. Raphaël Huser, Michael Stein, and **Peng Zhong**, Vecchia likelihood approximation for accurate and fast inference in intractable spatial extremes models, Submitted \[[PDF](files/paper4.pdf)\]
+4. Raphaël Huser, Michael Stein, and **Peng Zhong**, Vecchia Likelihood Approximation for Accurate and Fast Inference in Intractable Spatial Extremes Models, Submitted \[[arxiv](https://arxiv.org/abs/2203.05626)\]
+
+5. Yan Gong, **Peng Zhong**, Thomas Opitz, and Raphaël Huser, Partial tail-correlation coefficient applied to extremal-network learning, Submitted \[[arxiv](https://arxiv.org/abs/2210.07351)\]
+
+6. **Peng Zhong**, Manuela Brunner, Thomas Opitz, and Raphaël Huser, Spatial modeling and future projection of extreme precipitation extents, Submitted \[[arxiv](https://arxiv.org/abs/2212.03028)\] 
+
 	
 Photograph
 ====
