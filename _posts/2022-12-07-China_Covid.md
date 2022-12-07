@@ -1,5 +1,5 @@
 ---
-title: 'China !!'
+title: 'China Finally Starts Moving Away from Their Zero-Covid Policy!!'
 date: 2022-12-07
 permalink: /posts/2022-12-07-China_Covid_Reopening
 tags:
