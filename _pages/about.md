@@ -20,7 +20,7 @@ Publications
 Papers Under Review
 ====
 
-3. Zhongwei Zhang, Elias Krainski, **Peng Zhong**, Håvard Rue, and Raphaël Huser, Joint modeling and prediction of massive spatio-temporal wildfire count and burnt area data with the INLA-SPDE approach, Submitted\[[arxiv](https://arxiv.org/abs/2202.06502)\]
+3. Zhongwei Zhang, Elias Krainski, **Peng Zhong**, Håvard Rue, and Raphaël Huser, Joint modeling and prediction of massive spatio-temporal wildfire count and burnt area data with the INLA-SPDE approach, Submitted \[[arxiv](https://arxiv.org/abs/2202.06502)\]
  
 4. Raphaël Huser, Michael Stein, and **Peng Zhong**, Vecchia Likelihood Approximation for Accurate and Fast Inference in Intractable Spatial Extremes Models, Submitted \[[arxiv](https://arxiv.org/abs/2203.05626)\]
 
