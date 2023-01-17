@@ -24,11 +24,11 @@ Publications
 Papers Under Review
 ==== 
 
-4. Raphaël Huser, Michael Stein, and **Peng Zhong**, Vecchia likelihood approximation for accurate and fast inference in intractable spatial extremes models, Submitted \[[arxiv](https://arxiv.org/abs/2203.05626)\]
+5. Raphaël Huser, Michael Stein, and **Peng Zhong**, Vecchia likelihood approximation for accurate and fast inference in intractable spatial extremes models, Submitted \[[arxiv](https://arxiv.org/abs/2203.05626)\]
 
-5. Yan Gong, **Peng Zhong**, Thomas Opitz, and Raphaël Huser, Partial tail-correlation coefficient applied to extremal-network learning, Submitted \[[arxiv](https://arxiv.org/abs/2210.07351)\]
+78. Yan Gong, **Peng Zhong**, Thomas Opitz, and Raphaël Huser, Partial tail-correlation coefficient applied to extremal-network learning, Submitted \[[arxiv](https://arxiv.org/abs/2210.07351)\]
 
-6. **Peng Zhong**, Manuela Brunner, Thomas Opitz, and Raphaël Huser, Spatial modeling and future projection of extreme precipitation extents, Submitted \[[arxiv](https://arxiv.org/abs/2212.03028)\] 
+3. **Peng Zhong**, Manuela Brunner, Thomas Opitz, and Raphaël Huser, Spatial modeling and future projection of extreme precipitation extents, Submitted \[[arxiv](https://arxiv.org/abs/2212.03028)\] 
 
 	
 Photograph
