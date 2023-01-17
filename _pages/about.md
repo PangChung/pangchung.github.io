@@ -15,20 +15,20 @@ redirect_from:
 Publications
 ====
 
-1. <a href="https://www.scimagojr.com/journalsearch.php?q=21100211345&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100211345" alt="SCImago Journal &amp; Country Rank" width="100" style="float:right;" /> </a>  **Peng Zhong**, Raphaël Huser, and Thomas Opitz, Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude, Annals of Applied Statistics, 16, 272-299, 2022 \[[PDF](files/paper1.pdf)\]
+[1] <a href="https://www.scimagojr.com/journalsearch.php?q=21100211345&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100211345" alt="SCImago Journal &amp; Country Rank" width="100" style="float:right;" /> </a>  **Peng Zhong**, Raphaël Huser, and Thomas Opitz, Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude, Annals of Applied Statistics, 16, 272-299, 2022 \[[PDF](files/paper1.pdf)\]
 
-2. <a href="https://www.scimagojr.com/journalsearch.php?q=21100836195&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100836195" alt="SCImago Journal &amp; Country Rank"  width="100" style="float:right;" /> </a>  **Peng Zhong**, Raphaël Huser, and Thomas Opitz, Exact simulation of max-infinitely divisible processes, Econometrics and Statistics, To appear, 2023+ \[[PDF](files/paper2.pdf)]
+[2] <a href="https://www.scimagojr.com/journalsearch.php?q=21100836195&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100836195" alt="SCImago Journal &amp; Country Rank"  width="100" style="float:right;" /> </a>  **Peng Zhong**, Raphaël Huser, and Thomas Opitz, Exact simulation of max-infinitely divisible processes, Econometrics and Statistics, To appear, 2023+ \[[PDF](files/paper2.pdf)]
 
-3. <a href="https://www.scimagojr.com/journalsearch.php?q=145213&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=145213" alt="SCImago Journal &amp; Country Rank" width="100" style="float:right;"  /></a> Zhongwei Zhang, Elias Krainski, **Peng Zhong**, Håvard Rue, and Raphaël Huser, Joint modeling and prediction of massive spatio-temporal wildfire count and burnt area data with the INLA-SPDE approach, Extremes, To appear, 2023+  \[[arxiv](https://arxiv.org/abs/2202.06502)\]
+[3] <a href="https://www.scimagojr.com/journalsearch.php?q=145213&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=145213" alt="SCImago Journal &amp; Country Rank" width="100" style="float:right;"  /></a> Zhongwei Zhang, Elias Krainski, **Peng Zhong**, Håvard Rue, and Raphaël Huser, Joint modeling and prediction of massive spatio-temporal wildfire count and burnt area data with the INLA-SPDE approach, Extremes, To appear, 2023+  \[[arxiv](https://arxiv.org/abs/2202.06502)\]
 
 Papers Under Review
 ==== 
 
-5. Raphaël Huser, Michael Stein, and **Peng Zhong**, Vecchia likelihood approximation for accurate and fast inference in intractable spatial extremes models, Submitted \[[arxiv](https://arxiv.org/abs/2203.05626)\]
+[4] Raphaël Huser, Michael Stein, and **Peng Zhong**, Vecchia likelihood approximation for accurate and fast inference in intractable spatial extremes models, Submitted \[[arxiv](https://arxiv.org/abs/2203.05626)\]
 
-78. Yan Gong, **Peng Zhong**, Thomas Opitz, and Raphaël Huser, Partial tail-correlation coefficient applied to extremal-network learning, Submitted \[[arxiv](https://arxiv.org/abs/2210.07351)\]
+[5] Yan Gong, **Peng Zhong**, Thomas Opitz, and Raphaël Huser, Partial tail-correlation coefficient applied to extremal-network learning, Submitted \[[arxiv](https://arxiv.org/abs/2210.07351)\]
 
-3. **Peng Zhong**, Manuela Brunner, Thomas Opitz, and Raphaël Huser, Spatial modeling and future projection of extreme precipitation extents, Submitted \[[arxiv](https://arxiv.org/abs/2212.03028)\] 
+[6] **Peng Zhong**, Manuela Brunner, Thomas Opitz, and Raphaël Huser, Spatial modeling and future projection of extreme precipitation extents, Submitted \[[arxiv](https://arxiv.org/abs/2212.03028)\] 
 
 	
 Photograph
