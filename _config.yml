@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Peng Zhong"
 title_separator          : "-"
 name                     : &name "Peng Zhong"
-description              : &description "Ph.D. in Statistics"
+description              : &description "Postdoc fellow at UNSW"
 url                      : https://pangchung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PangChung/pangchung.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Peng Zhong"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. in Statistics"
+  bio              : "Postdoc Fellow in Statistics"
   location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=UA0Cyr0AAAAJ&hl=en"
-  email            : "peng.zhong[at]kaust[dot]edu[dot]sa"
+  email            : "peng.zhong[at]unsw[dot]edu[dot]au"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #  uri            : "https://cemse.kaust.edu.sa/extstat/people/person/peng-zhong"
   bitbucket        :
