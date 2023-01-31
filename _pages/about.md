@@ -19,7 +19,7 @@ Publications
 
 [2] <a href="https://www.scimagojr.com/journalsearch.php?q=21100836195&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100836195" alt="SCImago Journal &amp; Country Rank"  width="100" style="float:right;" /> </a>  **Peng Zhong**, Raphaël Huser, and Thomas Opitz, Exact simulation of max-infinitely divisible processes, Econometrics and Statistics, To appear, 2023+ \[[PDF](files/paper2.pdf)\]
 
-[3] <a href="https://www.scimagojr.com/journalsearch.php?q=145213&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=145213" alt="SCImago Journal &amp; Country Rank" width="100" style="float:right;"  /></a> Zhongwei Zhang, Elias Krainski, **Peng Zhong**, Håvard Rue, and Raphaël Huser, Joint modeling and prediction of massive spatio-temporal wildfire count and burnt area data with the INLA-SPDE approach, Extremes, To appear, 2023+  \[[arxiv](https://arxiv.org/abs/2202.06502)\]
+[3] <a href="https://www.scimagojr.com/journalsearch.php?q=145213&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=145213" alt="SCImago Journal &amp; Country Rank" width="100" style="float:right;"  /> </a> Zhongwei Zhang, Elias Krainski, **Peng Zhong**, Håvard Rue, and Raphaël Huser, Joint modeling and prediction of massive spatio-temporal wildfire count and burnt area data with the INLA-SPDE approach, Extremes, To appear, 2023+  \[[arxiv](https://arxiv.org/abs/2202.06502)\]
 
 Papers Under Review
 ==== 
