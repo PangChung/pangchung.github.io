@@ -12,28 +12,15 @@ redirect_from:
 
 * If you want to know more about me, you can see my regular [blog posts](https://pangchung.github.io/year-archive/). 
 
-Publications
-====
+Publications:
+===
+[1] Zhong P., Huser R., and Opitz T. (2022), Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude, Annals of Applied Statistics, 16 (1), 272-299.
+[2] Zhong P., Huser R., and Opitz T. (2022), Exact simulation of max-infinitely divisible processes, Econometrics and Statistics, 30, 96-109.
+[3] Zhang Z., Krainski E., Zhong P., Rue H., and Huser R. (2023), Joint modeling and prediction of massive spatio-temporal wildfire count and burnt area data with the INLA-SPDE approach, Extremes, 26 (2), 339-351.
+[4] Huser R., Stein M., Zhong P. (2023), Vecchia Likelihood Approximation for Accurate and Fast Inference with Intractable Spatial Max-Stable Models, Journal of Computational and Graphical Statistics, 1-22.
+[5] Gong Y., Zhong P., Huser R., and Opitz T. (2023), Partial tail-correlation coefficient applied to extremal-network learning, Technometrics, 1-16.
 
-[1] **Peng Zhong**, Raphaël Huser, and Thomas Opitz, Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude, Annals of Applied Statistics, 16, 272-299, 2022 \[[PDF](files/paper1.pdf)\]
-
-[2] **Peng Zhong**, Raphaël Huser, and Thomas Opitz, Exact simulation of max-infinitely divisible processes, Econometrics and Statistics, To appear, 2023+ \[[PDF](files/paper2.pdf)\]
-
-[3] Zhongwei Zhang, Elias Krainski, **Peng Zhong**, Håvard Rue, and Raphaël Huser, Joint modeling and prediction of massive spatio-temporal wildfire count and burnt area data with the INLA-SPDE approach, Extremes, To appear, 2023+  \[[arxiv](https://arxiv.org/abs/2202.06502)\]
-
-Papers Under Review
-==== 
-
-[4] Raphaël Huser, Michael Stein, and **Peng Zhong**, Vecchia likelihood approximation for accurate and fast inference in intractable spatial extremes models, Submitted \[[arxiv](https://arxiv.org/abs/2203.05626)\]
-
-[5] Yan Gong, **Peng Zhong**, Thomas Opitz, and Raphaël Huser, Partial tail-correlation coefficient applied to extremal-network learning, Submitted \[[arxiv](https://arxiv.org/abs/2210.07351)\]
-
-[6] **Peng Zhong**, Manuela Brunner, Thomas Opitz, and Raphaël Huser, Spatial modeling and future projection of extreme precipitation extents, Submitted \[[arxiv](https://arxiv.org/abs/2212.03028)\] 
-
-	
-Photograph
-====
-<img src="../images/kaust.png" width="1024">
- 
-<img src="../images/georgia.png" width="1024">
+Papers Under Review:
+===
+[1] Zhong P., Brunner M., Huser R., and Opitz T. (2024), Spatial modeling and future projection of extreme precipitation extents, Revision Submitted. 
 
