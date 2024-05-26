@@ -14,17 +14,17 @@ redirect_from:
 
 Publications:
 ===
-[1] Zhong P., Huser R., and Opitz T. (2022), Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude, Annals of Applied Statistics, 16 (1), 272-299.
+[1] *Zhong P.*, Huser R., and Opitz T. (2022), Modeling non-stationary temperature maxima based on extremal dependence changing with event magnitude, Annals of Applied Statistics, 16 (1), 272-299.
 
-[2] Zhong P., Huser R., and Opitz T. (2022), Exact simulation of max-infinitely divisible processes, Econometrics and Statistics, 30, 96-109.
+[2] *Zhong P.*, Huser R., and Opitz T. (2022), Exact simulation of max-infinitely divisible processes, Econometrics and Statistics, 30, 96-109.
 
-[3] Zhang Z., Krainski E., Zhong P., Rue H., and Huser R. (2023), Joint modeling and prediction of massive spatio-temporal wildfire count and burnt area data with the INLA-SPDE approach, Extremes, 26 (2), 339-351.
+[3] Zhang Z., Krainski E., *Zhong P.*, Rue H., and Huser R. (2023), Joint modeling and prediction of massive spatio-temporal wildfire count and burnt area data with the INLA-SPDE approach, Extremes, 26 (2), 339-351.
 
-[4] Huser R., Stein M., Zhong P. (2023), Vecchia Likelihood Approximation for Accurate and Fast Inference with Intractable Spatial Max-Stable Models, Journal of Computational and Graphical Statistics, 1-22.
+[4] Huser R., Stein M., *Zhong P.* (2023), Vecchia Likelihood Approximation for Accurate and Fast Inference with Intractable Spatial Max-Stable Models, Journal of Computational and Graphical Statistics, 1-22.
 
-[5] Gong Y., Zhong P., Huser R., and Opitz T. (2023), Partial tail-correlation coefficient applied to extremal-network learning, Technometrics, 1-16.
+[5] Gong Y., *Zhong P.*, Huser R., and Opitz T. (2023), Partial tail-correlation coefficient applied to extremal-network learning, Technometrics, 1-16.
 
 Papers Under Review:
 ===
-[1] Zhong P., Brunner M., Huser R., and Opitz T. (2024), Spatial modeling and future projection of extreme precipitation extents, Revision Submitted. 
+[1] *Zhong P.*, Brunner M., Huser R., and Opitz T. (2024), Spatial modeling and future projection of extreme precipitation extents, Revision Submitted. 
 
