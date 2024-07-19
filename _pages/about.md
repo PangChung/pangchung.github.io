@@ -25,4 +25,4 @@ Publications:
 Papers Under Review:
 ===
 [1] **Zhong P.**, Brunner M., Huser R., and Opitz T. (2024), Spatial modeling and future projection of extreme precipitation extents, Revision Submitted. 
-
+[2] **Zhong P.**, Beranger B., and Sisson S. (2024) Flexible max-stable processes for fast and efficient inference, Submitted.
