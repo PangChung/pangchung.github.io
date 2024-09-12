@@ -18,12 +18,12 @@ Publications:
 
 [3] Zhang Z., Krainski E., **Zhong P.**, Rue H., and Huser R. (2023), Joint modeling and prediction of massive spatio-temporal wildfire count and burnt area data with the INLA-SPDE approach, Extremes, 26 (2), 339-351.
 
-[4] Huser R., Stein M., **Zhong P.** (2023), Vecchia Likelihood Approximation for Accurate and Fast Inference with Intractable Spatial Max-Stable Models, Journal of Computational and Graphical Statistics, 1-22.
+[4] Huser R., Stein M., **Zhong P.** (2024), Vecchia Likelihood Approximation for Accurate and Fast Inference with Intractable Spatial Max-Stable Models, Journal of Computational and Graphical Statistics, 1-22.
 
-[5] Gong Y., **Zhong P.**, Huser R., and Opitz T. (2023), Partial tail-correlation coefficient applied to extremal-network learning, Technometrics, 1-16.
+[5] Gong Y., **Zhong P.**, Huser R., and Opitz T. (2024), Partial tail-correlation coefficient applied to extremal-network learning, Technometrics, 1-16.
 
 [6] **Zhong P.**, Brunner M., Huser R., and Opitz T. (2024), Spatial modeling and future projection of extreme precipitation extents, To appear in the Journal of American Statistical Association.
 
 Preprints:
 ===
-[2] **Zhong P.**, Beranger B., and Sisson S. (2024) Flexible max-stable processes for fast and efficient inference, [Submitted](https://arxiv.org/abs/2407.13958).
+[2] **Zhong P.**, Beranger B., and Sisson S. (2024+) Flexible max-stable processes for fast and efficient inference, [Submitted](https://arxiv.org/abs/2407.13958).
