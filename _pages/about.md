@@ -22,8 +22,8 @@ Publications:
 
 [5] Gong Y., **Zhong P.**, Huser R., and Opitz T. (2023), Partial tail-correlation coefficient applied to extremal-network learning, Technometrics, 1-16.
 
+[6] **Zhong P.**, Brunner M., Huser R., and Opitz T. (2024), Spatial modeling and future projection of extreme precipitation extents, accepted at Journal of American Statistical Association [Arxiv](https://arxiv.org/abs/2212.03028). 
+
 Preprints:
 ===
-[1] **Zhong P.**, Brunner M., Huser R., and Opitz T. (2024), Spatial modeling and future projection of extreme precipitation extents, [Revision Submitted](https://arxiv.org/abs/2212.03028). 
-
 [2] **Zhong P.**, Beranger B., and Sisson S. (2024) Flexible max-stable processes for fast and efficient inference, [Submitted](https://arxiv.org/abs/2407.13958).
