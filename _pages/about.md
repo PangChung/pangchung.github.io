@@ -26,4 +26,4 @@ Publications:
 
 Preprints:
 ===
-[2] **Zhong P.**, Beranger B., and Sisson S. (2024+) Flexible max-stable processes for fast and efficient inference, [Submitted](https://arxiv.org/abs/2407.13958).
+[1] **Zhong P.**, Beranger B., and Sisson S. (2024+) Flexible max-stable processes for fast and efficient inference, [Submitted](https://arxiv.org/abs/2407.13958).
