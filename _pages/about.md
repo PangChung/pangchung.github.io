@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a postdoc fellow at The University of New South Wales (UNSW) supervised by Prof. Scott Sission and Prof. Boris Beranger. Before coming to UNSW, I earned my Ph.D. degree in Statistics at King Abdullah University of Science and Technology (KAUST) under Prof. [Raphaël Huser](https://cemse.kaust.edu.sa/stat/people/person/raphael-huser)'s supervision in June 2022. My research mainly focuses on modeling spatial extremes, high-dimensional inference, and Bayesian inference. In addition, I am also interested in deep learning frameworks and their application in the field of statistics. 
+* I am currently a postdoc fellow at The University of New South Wales (UNSW) supervised by Prof. Scott Sission and Dr. Boris Beranger since 2023. Before coming to UNSW, I earned my Ph.D. degree in Statistics at King Abdullah University of Science and Technology (KAUST) under Prof. [Raphaël Huser](https://cemse.kaust.edu.sa/stat/people/person/raphael-huser)'s supervision in June 2022. My research mainly focuses on modeling spatial extremes, high-dimensional inference, and Bayesian inference. In addition, I am also interested in deep learning frameworks and their application in the field of statistics. 
 
 Publications:
 ===
