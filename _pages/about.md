@@ -28,4 +28,4 @@ Preprints:
 ===
 [1] **Zhong P.**, Sisson S., and Beranger B. (2025+) Fast and flexible inference for spatial extremes, [Submitted](https://arxiv.org/abs/2407.13958).
 
-[2] **Zhong P.**, Sisson S., and Beranger B. (2025+) Graphical Learning and Clustering based on H\"usler-Reiss Graphical Models, <!-- [Preprint](/files/GraphicalExtremes.pdf). -->
+[2] **Zhong P.**, Sisson S., and Beranger B. (2025+) Graphical Learning and Clustering based on H\"usler-Reiss Graphical Models <!-- [Preprint](/files/GraphicalExtremes.pdf). -->
