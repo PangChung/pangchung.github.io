@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Peng Zhong"
 title_separator          : "-"
 name                     : &name "Peng Zhong"
-description              : &description "Postdoc fellow at UNSW"
+description              : &description "Lecturer at University of Wollongong"
 url                      : https://pangchung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PangChung/pangchung.github.io"
@@ -86,7 +86,7 @@ author:
   location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=UA0Cyr0AAAAJ&hl=en"
-  email            : "peng [dot] zhong [at] unsw [dot] edu [dot] au"
+  email            : "pengz [at] uow [dot] edu [dot] au"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #  uri            : "https://cemse.kaust.edu.sa/extstat/people/person/peng-zhong"
   bitbucket        :
